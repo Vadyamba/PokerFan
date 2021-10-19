@@ -18,6 +18,8 @@ namespace PokerFan
 
             int i = 0;
             string s = "kdfj";
+
+            bool b = true;
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
