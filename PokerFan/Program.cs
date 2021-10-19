@@ -14,6 +14,10 @@ namespace PokerFan
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+
+
+            int i = 0;
+            string s = "kdfj";
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
